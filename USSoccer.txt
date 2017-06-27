@@ -1,0 +1,458 @@
+DATE	MATCHUP	RESULT	VENUE	ATTENDANCE	GOAL SCORERS
+June 8, 2017	WNT vs Sweden	1-0 W	Gamla Ullevi Stadium; Gothenburg, Sweden	10,011	Lavelle
+June 4, 2017	U-20 MNT vs Venezuela	1-2 L (a.e.t.)	Jeonju World Cup Stadium; Jeonju, Korea Republic	2,671	Ebobisse
+June 3, 2017	MNT vs Venezuela	1-1 D	Rio Tinto Stadium; Sandy, Utah	17,315	Pulisic
+June 1, 2017	U-20 MNT vs New Zealand	6-0 W	Incheon Stadium; Incheon, Korea Republic	5,667	Sargent, Lennon, Ebobisse, Glad, Trusty, Kunga
+May 28, 2017	U-20 MNT vs Saudi Arabia	1-1 D	Daejeon World Cup Stadium; Daejeon, Korea Republic	5,460	Lennon
+May 25, 2017	U-20 MNT vs Senegal	1-0 W	Incheon Stadium; Incheon, Korea Republic	5,864	Sargent
+May 24, 2017	U-20 WNT vs Japan	2-2 D	National Training Center; Carson, Calif.	0	Richardson, Smith
+May 22, 2017	U-20 WNT vs Japan	1-2 L	National Training Center; Carson, Calif.	0	Kuhlmann
+May 22, 2017	U-20 MNT vs Ecuador	3-3 D	Incheon Stadium; Incheon, Korea Republic	3,886	Sargent(2), De La Torre
+May 19, 2017	U-19 WNT vs Japan	0-1 L	National Training Center; Carson, Calif.	0	--
+May 7, 2017	U-17 MNT vs Mexico	1-1 D 4-5 PK's	Estadio Rommel Fernández; Panama City, Panama	233	Carleton
+May 5, 2017	U-17 MNT vs Cuba	6-2 W	Estadio Maracaná; Panama City, Panama		Vassilev, Carleton, Coll(og), Jones, Reynolds, Weah
+May 3, 2017	U-17 MNT vs Honduras	3-0 W	Estadio Maracaná; Panama City, Panama		Sargent(2), Akinola
+May 1, 2017	U-15 BNT vs England	2-1 W	Gradisca d'Isonzo, Italy		Scally, Reyna
+April 29, 2017	U-17 MNT vs El Salvador	1-0 W	Estadio Maracaná; Panama City, Panama	186	Jones
+April 29, 2017	U-17 WNT vs Italy	6-0 W	Gradisca, Italy	350	Fishel, Doms(2), Van Zanten, Bethune, Godfrey
+April 29, 2017	U-15 BNT vs Portugal	4-2 W	Gorizia, Italy		Reyna, Ocampo Chavez, Gaines, Busio
+April 28, 2017	U-17 WNT vs England	2-0 W	Miren (SLO)	70	Linnehan, Canniff
+April 27, 2017	U-15 BNT vs England	2-3 L	Precenicco, Italy		Busio(2)
+April 27, 2017	U-18 MNT vs Slovakia	1-1 D 4-3 PK's	Trnava; Slovakia		--
+April 26, 2017	U-17 MNT vs Mexico	4-3 W	Estadio Maracaná; Panama City, Panama	198	Sargent(2), Ferri, Akinola
+April 26, 2017	U-15 BNT vs Russia	2-1 W	Vipolze, Slovenia		Lopez, Reyna
+April 26, 2017	U-17 WNT vs Mexico	4-0 W	Fiumicello (ITA)	100	Godfrey(2), Doms, Wiesner
+April 25, 2017	U-15 BNT vs Slovenia	4-0 W	Ajdovščina Stadium, Slovenia		Ocampo Chavez, Reyna, Bello, Mangarov
+April 25, 2017	U-17 WNT vs Slovenia	1-1 D	Ajdovščina, Slovenia		Canniff
+April 25, 2017	U-18 MNT vs Belarus	2-1 W	Trnava; Slovakia		Pomykal, Gonzalez
+April 24, 2017	U-18 MNT vs Hungary	1-1 D	Trnava; Slovakia		Perez
+April 23, 2017	U-17 MNT vs Jamaica	5-0 W	Estadio Maracaná; Panama City, Panama	132	Durkin, Weah, Sargent, Akinola(2)
+April 9, 2017	WNT vs Russia	5-1 W	BBVA Compass Stadium; Houston, Texas 	11,347	Lloyd, Lavelle, Dunn(2), Kovalenko (og)
+April 7, 2017	U-23 WNT vs Orlando Pride	0-3 L	Sylvan Lake Park, Sanford, Fla.		--
+April 6, 2017	WNT vs Russia	4-0 W	Toyota Stadium; Frisco, Texas	15,191	Dunn(2), Long(2)
+April 1, 2017	U-23 WNT vs Chicago Red Stars	0-0 D	Providence Park; Portland, Ore.		--
+March 29, 2017	U-23 WNT vs Portland Thorns FC	2-1 W	Providence Park; Portland, Ore.	6,129	Xiao, Smith
+March 28, 2017	MNT vs Panama	1-1 D	Estadio Rommel Fernandez; Panama City, Panama	Dempsey
+March 26, 2017	U-23 WNT vs Houston Dash	1-2 L	Providence Park; Portland, Ore.		McCaskill
+March 24, 2017	MNT vs Honduras	6-0 W	Avaya Stadium; San Jose, Calif.	17,729	Lletget, Bradley, Dempsey(3), Pulisic
+March 7, 2017	WNT vs France	0-3 L	RFK Stadium; Washington, D.C. 	21,638	--
+March 7, 2017	U-20 WNT vs France	2-0 W	La Manga Club Resort; La Manga, Spain	100	Smith, Turnbow
+March 6, 2017	U-23 WNT vs Norway	1-0 W	La Manga Club Resort; La Manga, Spain	75	Andrews
+March 5, 2017	U-20 MNT vs Honduras	0-0 D 5-3 PKs	Estadio Nacional de Costa Rica; San Jose, Costa Rica		--
+March 5, 2017	U-20 WNT vs Germany	1-2 L	La Manga Club Resort; La Manga, Spain	100	Smith
+March 4, 2017	WNT vs England	0-1 L	Red Bull Arena; Harrison, N.J.	26,500 (so)	--
+March 4, 2017	U-23 WNT vs England	0-2 L	La Manga Club Resort; La Manga, Spain		--
+March 3, 2017	U-20 MNT vs El Salvador	2-1 W	Estadio Nacional de Costa Rica; San Jose, Costa Rica	270	Sabbi, Williamson
+March 3, 2017	U-20 WNT vs Norway	8-2 W	La Manga Club Resort; La Manga, Spain	200	Kim(2), Harr, Hiatt, Smith(2), Kuhlmann, Turnbow
+March 2, 2017	U-23 WNT vs Japan	2-0 W	La Manga Club Resort; La Manga, Spain		McCaskill, Purce
+March 1, 2017	WNT vs Germany	1-0 W	Talen Energy Stadium; Chester, Pa.	16,318	Williams
+February 27, 2017	U-20 MNT vs Mexico	1-0 W	Estadio Ricardo Saprissa; Tibas, Costa Rica		Palmer-Brown
+February 25, 2017	U-18 WNT vs England	0-0 D	New Bucks Head Stadium; Wellington, England	250	--
+February 24, 2017	U-20 MNT vs St. Kitts and Nevis	4-1 W	Estadio Ricardo Saprissa; Tibas, Costa Rica	232	Lennon, Lewis, Saucedo(2)
+February 23, 2017	Beach vs Trinidad & Tobago	5-1 W	Malcolm Beach Soccer Facility; Nassau, Bahamas		Garcia(2), Canale(2), Reyes
+February 22, 2017	Beach vs Antigua & Barbuda	7-2 W	Malcolm Beach Soccer Facility; Nassau, Bahamas		Valentine(2), Futagaki, Van Zytveld, Feld, Canale, Antigua (OG)
+February 21, 2017	U-20 MNT vs Haiti	4-1 W	Estadio Nacional; San Jose, Costa Rica	170	Lennon(3), de la Torre
+February 21, 2017	U-18 WNT vs Norway	5-0 W	St. Georges Park; Straffordshire, England	100	Yates, Smith(3), Dyke
+February 20, 2017	Beach vs U.S. Virgin Islands	8-1 W	Malcolm Beach Soccer Facility; Nassau, Bahamas		Perera(3), Feld, Canale(2), Santos, Van Zytveld
+February 19, 2017	U-18 WNT vs England	3-1 W	St. Georges Park; Straffordshire, England	300	Yates, Smith(2)
+February 18, 2017	U-20 MNT vs Panama	0-1 L	Estadio Ricardo Saprissa; Tibas, Costa Rica		--
+February 7, 2017	U-20 MNT vs El Salvador	2-0 W	UCF Soccer Stadium; Orlando, Fla.		Ebobisse, Craft
+February 5, 2017	U-19 MNT vs El Salvador	2-1 W	Broward Regional Park; Fort Lauderdale, Fla.	93	Kraft, Hunsinger
+February 3, 2017	MNT vs Jamaica	1-0 W	Finley Stadium; Chattanooga, Tenn.	17,903	Morris
+January 29, 2017	MNT vs Serbia	0-0 D	Qualcomm Stadium; San Diego, Calif.	20,079	--
+December 19, 2016	U-20 MNT vs Costa Rica	0-0 D	San Jose, Costa Rica	200	--
+December 19, 2016	U-16 BNT vs Miramar United Elite FC	5-0 W	Bradenton, Fla.		
+December 18, 2016	U-16 BNT vs FC Florida Prep Academy	6-0 W	Bradenton, Fla.		
+December 17, 2016	U-17 MNT vs Tottenham FC	1-3 L	IMG Academy; Bradenton, Fla.		Acosta
+December 17, 2016	U-16 BNT vs Next Gen USA Showcase Select (NJ)	6-0 W	Bradenton, Fla.		
+December 17, 2016	U-20 MNT vs Costa Rica	4-0 W	San Jose, Costa Rica	200	Saucedo(2), Ebobisse, Adams
+December 15, 2016	U-17 MNT vs RVG Academy	5-0 W	IMG Academy; Bradenton, Fla.		Akinola(2), Acosta, Carleton, Jones
+December 14, 2016	U-17 MNT vs Baltimore Armour 18DA	2-1 W	IMG Academy; Bradenton, Fla.		Temple, Angking
+December 4, 2016	U-17 MNT vs Brazil	3-0 W	Premier Sports Campus; Lakewood Ranch, Fla.	4,072	Akinola, Sargent, Weah
+December 3, 2016	U-20 WNT vs Japan	0-1 L	National Football Stadium; Port Moresby, Papua New Guinea	8,093	--
+December 2, 2016	U-17 MNT vs Turkey	5-1 W	Premier Sports Campus; Lakewood Ranch, Fla.	3,933	Carleton(2), Akinola(2), Weah
+November 30, 2016	U-17 MNT vs Portugal	7-1 W	Premier Sports Campus; Lakewood Ranch, Fla.		Carleton(2), Sargent(3), Akinola, McGann
+November 29, 2016	U-20 WNT vs Korea DPR	1-2 L (aet)	Sir John Guise Stadium; Port Moresby, Papua New Guinea	5,037	Jacobs
+November 25, 2016	U-20 WNT vs Mexico	2-1 W	Sir John Guise Stadium; Port Moresby, Papua New Guinea	4,245	Watt, Hedge
+November 21, 2016	U-20 WNT vs Ghana	1-1 D	National Football Stadium; Port Moresby, Papua New Guinea	3,076	Pugh
+November 17, 2016	U-20 WNT vs New Zealand	3-1 W	Sir Hubert Murray Stadium; Port Moresby, Papua New Guinea	2,399	Sanchez, Pugh, Watt
+November 15, 2016	MNT vs Costa Rica	0-4 L	Estadio Nacional de Costa Rica; San Jose, Costa Rica	35,400 (so)	--
+November 14, 2016	U-20 WNT vs France	0-0 D	Sir Hubert Murray Stadium; Port Moresby, Papua New Guinea	2,033	--
+November 13, 2016	WNT vs Romania	5-0 W	StubHub Center; Carson, Calif. 	20,336	Meluta(og), Press, Dunn, Brian, Mewis
+November 13, 2016	U-18 MNT vs South Florida Surf	2-2 D	Lockhart Stadium; Fort Lauderdale, Fla.	50	Carranza(2)
+November 13, 2016	U-19 MNT vs Miami FC	5-0 W	Lockhart Stadium; Fort Lauderdale, Fla.	200	Vazquez, Adams, Taitague, Young, Hunsinger
+November 11, 2016	MNT vs Mexico, Presented by AT&T	1-2 L	MAPFRE Stadium; Columbus, Ohio	24,650 (so)	Wood
+November 10, 2016	WNT vs Romania	8-1 W	Avaya Stadium; San Jose, Calif.	16,425	Press(3), Heath(2), Brian, Morgan(2)
+November 8, 2016	U-15 BNT vs Weston FC	7-0 W	Bradenton, Fla.		
+November 8, 2016	U-15 BNT vs Chargers Soccer Club	2-1 W	Bradenton, Fla.		Cano, Andersen
+November 6, 2016	U-17 MNT vs Jamaica	4-0 W	Kingston, Jamaica		Acosta, Carleton(2), Reynolds Jr.
+November 5, 2016	Beach vs United Arab Emirates	3-4 L	Dubai, United Arab Emirates	978	Canale(2), Gil
+November 4, 2016	Beach vs Poland	3-6 L	Dubai, United Arab Emirates	956	Futagaki, Valentine, Feld
+November 3, 2016	Beach vs Egypt	3-5 L	Dubai, United Arab Emirates	385	Perera(3)
+November 2, 2016	Beach vs Russia	3-9 L	Dubai, United Arab Emirates	1,754	Canale(2), Perera
+November 2, 2016	U-17 MNT vs Jamaica	3-0 W	Kingston, Jamaica		Akinola, Sargent, Temple
+November 1, 2016	Beach vs Iran	2-6 L	Dubai, United Arab Emirates	1,127	Perera(2)
+October 29, 2016	U-16 BNT vs France	0-2 L	Val de Marne, France		--
+October 27, 2016	U-16 BNT vs Russia	0-3 L	Val de Marne, France		--
+October 25, 2016	U-16 BNT vs England	2-1 W	Val de Marne, France		Llanez(2)
+October 24, 2016	U-17 MNT vs Costa Rica	4-0 W	Bradenton, Fla.		Ferri, Sargent, Acosta, Akinola
+October 23, 2016	WNT vs Switzerland	5-1 W	U.S. Bank Stadium; Minneapolis, Minn.	23,400	Lloyd(2), Press, Dunn, Ohai
+October 23, 2016	U-18 WNT vs Northern Ireland	3-0 W	Belfast, Northern Ireland		Briede, own goal, Grey
+October 22, 2016	U-17 MNT vs Costa Rica	3-1 W	Bradenton, Fla.		Reynolds, Ferri, Sargent
+October 20, 2016	U-18 WNT vs France	3-1 W	Lurgan, Northern Ireland		Turnbow(2), Briede
+October 19, 2016	WNT vs Switzerland	4-0 W	Rio Tinto Stadium; Sandy Utah	14,336	Williams, Heath, Press, Mewis
+October 18, 2016	U-18 WNT vs England	1-2 L	Ballymena, Northern Ireland		Grey
+October 11, 2016	MNT vs New Zealand	1-1 D	RFK Stadium; Washington, D.C.	9,012	Green
+October 10, 2016	U-20 WNT vs Venezuela	5-1 W	Omni Resort at Champions Gate; Orlando, Fla.	0	Petersen, Ogle, Pugh, Hedge, Jacobs
+October 10, 2016	U-20 MNT vs England	0-2 L	Rochdale FC; Manchester, England	1,500	
+October 8, 2016	U-17 MNT vs Saint Louis FC U-18 Academy	1-1 D 4-5 PKs	St. Louis, Mo.	3,421	Temple
+October 8, 2016	U-20 WNT vs Venezuela	6-2 W	Premier Sports Complex; Lakewood Ranch, Fla.	0	Pugh(3), Petersen, Scarpa, Riehl
+October 8, 2016	U-17 WNT vs Japan	2-3 L	Amman International Stadium; Amman, Jordan		Sanchez(2)
+October 7, 2016	MNT vs Cuba	2-0 W	Estadio Pedro Marrero; Havana, Cuba		Wondolowski, Green
+October 7, 2016	U-20 MNT vs Netherlands	3-5 L	Altrincham FC; Manchester, England		Ebobisse(3)
+October 5, 2016	U-20 MNT vs Germany	0-1 L	Leigh Sports Village; Manchester, England		--
+October 4, 2016	U-17 WNT vs Ghana	1-2 L	King Abdullah II International Stadium; Amman, Jordan	2,000	Tagliaferri
+October 1, 2016	U-17 WNT vs Paraguay	6-1 W	Prince Mohammed International Stadium; Al Zarqa, Jordan	2,078	Tagliaferri, Kuhlmann(3), Pickett, Sanchez
+October 1, 2016	U-17 MNT vs Panama	0-2 L	Panama City, Panama		--
+September 27, 2016	U-17 MNT vs Panama	3-1 W	Maracana Stadium; Panama City, Panama		Akinola, Acosta, Carleton
+September 18, 2016	WNT vs the Netherlands	3-1 W	Georgia Dome; Atlanta, Ga.	15,652	Lloyd, van den Berg(og), Long
+September 18, 2016	U-20 WNT vs Brazil	0-2 L	U.S. Soccer National Training Center; Carson, Calif.		--
+September 17, 2016	U-17 MNT vs Guatemala	9-0 W	Lakewood Ranch, Florida		Akinola(2), Sargent(2), Jones(3), Durkin, Gloster
+September 16, 2016	U-20 WNT vs England	0-1 L	U.S. Soccer National Training Center; Carson, Calif.		--
+September 15, 2016	WNT vs Thailand	9-0 W	MAPFRE Stadium; Columbus, Ohio	10,490	Lloyd(3), Press, O'Reilly, Heath, Dunn, Morgan(2)
+September 15, 2016	U-17 MNT vs Guatemala	8-0 W	Bradenton, Florida		Sands, Akinola(2), Sargent(2), Jones, Angking(2)
+September 14, 2016	U-20 WNT vs Korea Republic	0-0 D	U.S. Soccer National Training Center; Carson, Calif.		--
+September 14, 2016	PNT vs Ireland	2-1 W	Deodoro Stadium; Rio de Janeiro, Brazil	3,000	Jahn, Bremer
+September 12, 2016	PNT vs Argentina	2-3 L	Deodoro Stadium; Rio de Janeiro, Brazil	4,500	
+September 10, 2016	PNT vs Iran	0-2 L	Deodoro Stadium; Rio de Janeiro, Brazil	10,000	--
+September 8, 2016	PNT vs Netherlands	2-2 D	Deodoro Stadium; Rio de Janeiro, Brazil		Ballou(2)
+September 6, 2016	MNT vs Trinidad & Tobago	4-0 W	EverBank Field; Jacksonville, Fla.	19,410	Kljestan, Altidore(2), Arriola
+September 5, 2016	U-19 MNT vs Hungary	2-1 W	FK Backa Topola; Topola, Serbia	100	Zubak, Mihailovic
+September 2, 2016	U-17 WNT vs Venezuela	5-1 W	Premier Sports Campus; Lakewood Ranch, Fla.		Kuhlmann, Tagliaferri, Canniff, Richardson, S. Smith
+September 2, 2016	MNT vs St. Vincent and the Grenadines	6-0 W	Arnos Vale Stadium; St. Vincent and the Grenadines		Wood, Besler, Altidore, Pulisic(2), Kljestan
+September 2, 2016	U-19 MNT vs France	0-2 L	Senta Stadium; Senta, Serbia		--
+September 1, 2016	U-19 MNT vs Serbia	1-2 L	City Stadium; Subotica, Serbia		Vazquez
+August 30, 2016	U-17 WNT vs Venezuela	4-0 W	Water Soccer Complex; Tampa, Fla.		VEN(og), Spannstra, Kuhlmann, Tagliaferri
+August 28, 2016	U-17 MNT vs Mexico	3-6 L	Mexico City, Mexico		Akinola, Vasquez, Acosta
+August 26, 2016	U-17 MNT vs Qatar	2-1 W	Mexico City, Mexico		Jones, Akinola
+August 25, 2016	U-17 MNT vs Portugal	3-3 D	Mexico City, Mexico		Carleton(2), Akinola
+August 21, 2016	U-15 GNT vs Canada	2-0 W	ESPN Wide World of Sports Complex in Disney - Field 17; Orlando, Fla.		Van Zanten, Meza
+August 19, 2016	U-18 MNT vs Czech Republic	4-2 W	Pilsen, Czech Republic		Pomykal, Taitague, Perry(2)
+August 19, 2016	U-18 MNT vs Russia	5-3 W	Pilsen, Czech Republic		Dorsey, Pomykal, Carranza, own goal, Perry
+August 17, 2016	U-15 GNT vs Bermuda	12-0 W	ESPN Wide World of Sports Complex in Disney - Field 17; Orlando, Fla.		Linnehan(3), Fishel(3), Robinson(2), Mercado(2), Van Zanten, Meza
+August 17, 2016	U-18 MNT vs Hungary	3-1 W	Pilsen, Czech Republic		Caranza, Taitague(2)
+August 16, 2016	U-18 MNT vs Slovakia	3-1 W	Pilsen, Czech Republic		Taitague, Rennicks, Brewer
+August 13, 2016	U-15 GNT vs Dominican Republic	6-0 W	ESPN Wide World of Sports Complex in Disney; Orlando, Fla.		Meza(2), Fontes(2), Van Zanten, Linehan
+August 12, 2016	U-17 WNT vs Brazil	1-1 D	Van Andel Soccer Stadium at Hope College; Holland, Mich.	2,278	Smith
+August 12, 2016	WNT vs Sweden	1-1 D 3-4 PKs	Mané Garrincha Stadium; Brasilia	13,892	Morgan
+August 12, 2016	U-15 GNT vs Haiti	1-0 W	ESPN Wide World of Sports Complex in Disney; Orlando, Fla.		Fontes
+August 10, 2016	U-15 GNT vs Mexico	1-0 W	ESPN Wide World of Sports Complex in Disney; Orlando, Fla.		Fishel
+August 9, 2016	U-17 WNT vs Brazil	2-2 D	DeMartin Soccer Stadium at Michigan State Univ.; East Lansing, Mich.	2,250	Sanchez, Howell
+August 9, 2016	WNT vs Colombia	2-2 D	Amazônia Arena; Manaus		Dunn, Pugh
+August 9, 2016	U-15 GNT vs Trinidad & Tobago	22-0 W	ESPN Wide World of Sports Complex in Disney; Orlando, Fla.		Meza (2), Torres, Robinson (5), Van Zanten (2), own goal (2), Fishel (2), DellaPeruta, Linnehan (3), Fontes (2), Bethune (2)
+August 7, 2016	U-20 MNT vs New York Red Bulls II	4-3 W	New York Red Bull Training Facility; Whippany, NJ		Sabbi, Lewis, Elney, Kelly
+August 6, 2016	WNT vs France	1-0 W	Mineirão; Belo Horizonte	11,782	Lloyd
+August 3, 2016	WNT vs New Zealand	2-0 W	Mineirão; Belo Horizonte	9,556	Lloyd, Morgan
+August 3, 2016	U-20 MNT vs New York Cosmos	2-0 W	New York Cosmos Training Facility; Uniondale, NY		Gutjahr, Suarez
+August 1, 2016	U-19 MNT vs Bahrain	1-3 L	Valencia, Spain		Lankford
+July 29, 2016	U-19 MNT vs Spain	1-0 W	Valencia, Spain		Vazquez
+July 28, 2016	U-19 MNT vs Mauritania	1-0 W	Valencia, Spain		Mihailovic
+July 26, 2016	U-19 MNT vs Venezuela	0-2 L	Valencia, Spain		--
+July 22, 2016	WNT vs Costa Rica	4-0 W	Children's Mercy Park; Kansas City, Kan.
+12,635	Dunn, Pugh, Lloyd, Press
+July 14, 2016	U-18 WNT vs England	2-2 D	St. Georges Park, England		Kim (2)
+July 12, 2016	U-18 WNT vs England	0-1 L	St. Georges Park, England		--
+July 9, 2016	WNT vs South Africa	1-0 W	Soldier Field; Chicago, Ill.	19,272	Dunn
+July 3, 2016	U-20 MNT vs Japan	2-1 W	Glenn "Mooch" Myernick Field; Carson, Calif.		Saucedo, Ebobisse
+July 1, 2016	U-20 MNT vs Panama	4-0 W	Glenn "Mooch" Myernick Field; Carson, Calif.		Young, Acosta, Ebobisse, Craft
+June 29, 2016	U-20 MNT vs Costa Rica	2-0 W	Glenn "Mooch" Myernick Field; Carson, Calif.		Ebobisse, Saucedo
+June 25, 2016	MNT vs Colombia	0-1 L	University of Phoenix Stadium; Glendale, Ariz.	29,041	--
+June 21, 2016	MNT vs Argentina	0-4 L	NRG Stadium; Houston, Texas	70,858 (so)	--
+June 19, 2016	U-19 WNT vs New Zealand U-20 WNT	4-1 W	Auckland, New Zealand	0	Horgan, Stevens, Simon, Hintzen
+June 17, 2016	U-19 WNT vs New Zealand U-20 WNT	4-4 D	Auckland, New Zealand	0	Prisock, Stevens, Hintzen, Davidson
+June 16, 2016	MNT vs Ecuador	2-1 W	CenturyLink Field; Seattle, Wash.	47,322	Dempsey, Zardes
+June 14, 2016	U-19 WNT vs New Zealand Reserves	2-1 W	Auckland, New Zealand	0	Everett (2)
+June 11, 2016	MNT vs Paraguay	1-0 W	Lincoln Financial Field; Philadelphia, Pa.	51,041	Dempsey
+June 7, 2016	MNT vs Costa Rica	4-0 W	Soldier Field; Chicago	39,642	Dempsey, Jones, Wood, Zusi
+June 7, 2016	U-23 WNT vs England	1-1 D 1-3 PKs	Birmingham, England		Sullivan
+June 5, 2016	WNT vs Japan	2-0 W	FirstEnergy Stadium; Cleveland, Ohio	23,535	Johnston, Morgan
+June 5, 2016	U-15 BNT vs Serbia	0-2 L	Zagreb, Croatia		--
+June 4, 2016	U-23 WNT vs Norway	2-1 W	Birmingham, England		Lussi, Jordan
+June 3, 2016	MNT vs Colombia	0-2 L	Levi's Stadium; Santa Clara, Calif.	67,439 (so)	--
+June 3, 2016	U-15 BNT vs Croatia	1-2 L	Zagreb, Croatia		Fuentes
+June 2, 2016	WNT vs Japan	3-3 D	Dick's Sporting Goods Park; Commerce City, Colo.	18,572 (so)	Morgan(2), Horan
+June 2, 2016	U-15 BNT vs Montenegro	1-0 W	Zagreb, Croatia		Reyna
+June 2, 2016	U-17 WNT vs Switzerland U-19 WNT	2-1 W	Lugano, Switzerland		Tagliaferri, Jones
+May 31, 2016	U-17 WNT vs Switzerland U-19 WNT	3-2 W	Lugano, Switzerland		Kuhlmann (2), Torres
+May 30, 2016	U-20 WNT vs Papua New Guinea	10-0 W	Port Moresby, Papua New Guinea	0	Hedge (2), Fox (2), Canales (2), Sanchez, Riehl, DeMelo, Watt
+May 28, 2016	MNT vs Bolivia	4-0 W	Children's Mercy Park; Kansas City, Kansas	8,894	Zardes(2), Brooks, Pulisic
+May 27, 2016	U-20 WNT vs Japan	0-5 L	Port Moresby, Papua New Guinea	0	-
+May 25, 2016	MNT vs Ecuador	1-0 W	Toyota Stadium; Frisco, Texas 	9,893	Nagbe
+May 25, 2016	U-17 MNT vs South Korea	1-1 D 0-1 aet	Goa, India		Carleton
+May 23, 2016	U-17 MNT vs Malaysia	2-1 W	Goa, India		Sargent (2)
+May 22, 2016	MNT vs Puerto Rico	3-1 W	Juan Ramón Loubriel Stadium; Bayamón, Puerto Rico	14,000	Ream, Wood, Arriola
+May 21, 2016	U-17 MNT vs South Korea	0-0 D	Goa, India		--
+May 19, 2016	U-17 MNT vs India	4-0 W	Goa, India		W. Sands (2), Vaughn, Negrete
+May 15, 2016	U-17 MNT vs Tanzania	1-1 D	Goa, India		Akinola
+May 1, 2016	U-16 BNT vs Italy	0-4 L	Gradisca, Italy		
+April 29, 2016	U-19 MNT vs Russia	2-1 W	Myjava; Slovakia		Hunsinger, Da Silva
+April 29, 2016	U-18 MNT vs San Diego Nomads	0-0 D	Olympic Training Center; Chula Vista, Calif.		Carranza
+April 29, 2016	U-16 BNT vs England	4-4 D 6-5	Gradisca, Italy		Hilton, De la Fuente, Rivas, Segal
+April 28, 2016	U-16 GNT vs Mexico	1-1 D 1-4 PKs	Gradisca, Italy		Wingate
+April 28, 2016	U-19 MNT vs Slovakia	1-3 L	Senica; Slovakia		Agu
+April 27, 2016	U-16 BNT vs Brazil	2-1 W	Gradisca, Italy		de la Fuente, Palomino
+April 26, 2016	U-18 MNT vs Xolos	2-1 W	Olympic Training Center; Chula Vista, Calif.		Taitague, Servania
+April 26, 2016	U-16 BNT vs Slovenia	2-2 D	Gradisca, Italy		Arriaga, Rivas
+April 26, 2016	U-19 MNT vs Ukraine	2-1 W	Bernolákovo; Slovakia		McKennie, own goal
+April 26, 2016	U-16 GNT vs Iran	6-0 W	Gradisca, Italy		Vatne, Yates (3), Jarrett, Wingate
+April 25, 2016	U-16 BNT vs Croatia	1-2 L	Gradisca, Italy		Llanez
+April 25, 2016	U-19 MNT vs Georgia	5-1 W	Modranka; Slovakia		Barbir, Hunsinger, Vazquez, McKennie, Espinoza
+April 25, 2016	U-16 GNT vs Italy	0-1 L	Gradisca, Italy		--
+April 17, 2016	U-17 MNT vs Canada	3-1 W	Lockhart Stadium; Fort Lauderdale, Florida		Carleton, Akinola (2)
+April 15, 2016	U-17 MNT vs Canada	3-1 W	Lockhart Stadium; Fort Lauderdale, Florida		Acosta, Goslin, Carleton
+April 10, 2016	WNT vs Colombia	3-0 W	Talen Energy Stadium; Chester, Pa.	17,275 (so)	Press, Johnston (2)
+April 6, 2016	WNT vs Colombia	7-0 W	Pratt & Whitney Stadium; East Hartford, Conn.	21,792	Dunn, Long (2), Pugh, Lloyd, Heath, Press
+March 29, 2016	U-23 MNT vs Colombia	1-2 L	Toyota Stadium; Frisco, Texas	7,998	Machado(og)
+March 29, 2016	MNT vs Guatemala - Presented by Liberty Mutual Insurance	4-0 W	MAPFRE Stadium; Columbus, Ohio	20,624	Dempsey, Cameron, Zusi, Altidore
+March 28, 2016	U-17 MNT vs France	3-2 W	Montaigu, France		Weah, Acosta (2)
+March 27, 2016	U-20 MNT vs Sinergia Deportiva Tigres	3-1 W	Dallas Texans Soccer Club, Texas		Saucedo, Lennon, Mansaray
+March 26, 2016	U-17 MNT vs Russia	4-0 W	Bretignolles-Sur-Mer, France		Acosta (2), Akinola (2)
+March 25, 2016	MNT vs Guatemala	0-2 L	Estadio Mateo Flores; Guatemala City, Guatemala	18,313	--
+March 25, 2016	U-23 MNT vs Colombia	1-1 D	Estadio Metropolitano Roberto Meléndez; Barranquilla, Colombia		Gil
+March 25, 2016	U-20 MNT vs Kyoto Sanga FC	0-0 D	Russel Creek Park; Dallas, Texas		--
+March 24, 2016	U-17 MNT vs England	2-2 D	Poire-Sur-Vie, France		Acosta(2)
+March 23, 2016	U-20 MNT vs TSG 1899 Hoffenheim	3-3 D	Richland College; Dallas, Texas	600	Herrera, Ebobisse, Mansaray
+March 22, 2016	U-17 MNT vs Brazil	1-1 D	Poire-Sur-Vie, France		Akinola
+March 21, 2016	U-20 MNT vs Fulham FC	1-2 L	Richland College; Dallas, Texas		Sabbi
+March 20, 2016	U-20 MNT vs CF Monterrey Rayados	1-0 W	Cotton Bowl; Dallas, Texas		Ebobisse
+March 16, 2016	U-18 MNT vs Uruguay	2-1 W	Buenos Aires, Argentina		Dorsey, del Rosario
+March 14, 2016	U-18 MNT vs Racing Club	3-2 W	Buenos Aires, Argentina		Dorsey, Taitague, Rennicks
+March 13, 2016	U-17 WNT vs Mexico	2-1 W	Grenada National Stadium; St. Georges, Grenada	2,500	Sanchez, Kulhmann
+March 12, 2016	U-18 MNT vs San Lorenzo	2-1 W	Buenos Aires, Argentina		Uribe, Taitague
+March 11, 2016	U-17 WNT vs Canada	5-0 W	Grenada National Stadium; St. Georges, Grenada		Spaanstra, Canniff, Culhmann, S. Smith, Tagilaferri
+March 9, 2016	WNT vs Germany	2-1 W	FAU Stadium; Boca Raton, Fla.	13,501	Morgan, Mewis
+March 8, 2016	U-17 WNT vs Costa Rica	2-0 W	Grenada National Stadium; St. Georges, Grenada		Spaanstra, Sanchez
+March 7, 2016	U-18 WNT vs Norway	1-0 W	La Manga, Spain		Kim
+March 6, 2016	U-17 WNT vs Mexico	1-0 W	Grenada National Stadium; St. Georges, Grenada		Sanchez
+March 6, 2016	WNT vs France	1-0 W	Nissan Stadium; Nashville, Tenn.	25,363	Morgan
+March 6, 2016	U-20 WNT vs Norway	2-1 W	La Manga, Spain		Roberts, Watt
+March 6, 2016	U-23 WNT vs France	2-0 W	Umag, Croatia		Groom, Gibbons
+March 5, 2016	U-18 WNT vs England	1-0 W	La Manga, Spain		Kim
+March 4, 2016	U-17 WNT vs Jamaica	8-1 W	Grenada National Stadium; St. Georges, Grenada		Kuhlmann (2), Sanchez (2), Tagliaferri (4)
+March 4, 2016	U-23 WNT vs Poland U-19 WNT	0-0 D	Umag, Croatia		--
+March 4, 2016	U-20 WNT vs England	1-0 W	La Manga, Spain		Watt
+March 3, 2016	WNT vs England	1-0 W	Raymond James Stadium; Tampa Bay, Fla.	13,027	Dunn
+March 3, 2016	U-18 WNT vs Denmark	0-0 D	La Manga, Spain		--
+March 2, 2016	U-20 WNT vs Sweden	1-1 D	La Manga, Spain		Hedge
+March 2, 2016	U-23 WNT vs Slovenia	3-0 W	Umag, Croatia		Groom, T. Smith, Sullivan
+February 21, 2016	WNT vs Canada	2-0 W	BBVA Compass Stadium; Houston, Texas	10,119	Horan, Heath
+February 19, 2016	WNT vs Trinidad & Tobago	5-0 W	BBVA Compass Stadium; Houston, Texas	5,561	Heath, Morgan(3), Lloyd
+February 15, 2016	WNT vs Puerto Rico	10-0 W	Toyota Stadium; Frisco, Texas	7,658	Dunn(5), Lloyd, O'Hara, Rivera(og), Press, S. Mewis
+February 15, 2016	U-17 WNT vs Japan	2-1 W	Glenn “Mooch” Myernick Field; Carson, Calif.		Sanchez, own goal
+February 13, 2016	U-17 WNT vs Korea Republic	2-0 W	Glenn “Mooch” Myernick Field; Carson, Calif.		S. Smith, Rodriguez
+February 13, 2016	WNT vs Mexico	1-0 W	Toyota Stadium; Frisco, Texas	15,032	Lloyd
+February 11, 2016	U-17 WNT vs England	2-0 W	Glenn “Mooch” Myernick Field; Carson, Calif.		Kuhlmann (2)
+February 10, 2016	WNT vs Costa Rica	5-0 W	Toyota Stadium; Frisco, Texas	8,143	Morgan(2), Lloyd, Dunn, Press
+February 5, 2016	MNT vs Canada	1-0 W	StubHub Center; Carson, Calif.	9,274	Altidore
+January 31, 2016	MNT vs Iceland	3-2 W	StubHub Center; Carson, Calif.	8,803	Altidore, Orozco, Birnbaum
+January 25, 2016	U-23 WNT vs Ireland	3-0 W	U.S. Soccer National Training Center; Carson, Calif.		Gibbons(2), Payne
+January 23, 2016	WNT vs Ireland	5-0 W	Qualcomm Stadium; San Diego, Calif.	23,309	Lloyd (3), Morgan, Pugh
+January 23, 2016	U-17 MNT vs Turkey	1-3 L	Mumin Ozkasap; Turkey		Villegas
+January 21, 2016	U-17 MNT vs Belgium	2-0 W	Adnan Menderes, Turkey		Carleton, Sargent
+January 19, 2016	U-17 MNT vs Greece	2-1 W	Adnan Menderes, Turkey		Carleton, Temple
+January 18, 2016	U-17 MNT vs Romania	0-1 L	Kusadasi, Turkey		--
+December 16, 2015	WNT vs China	0-1 L	Mercedes-Benz Superdome; New Orleans, La.	32,950	
+December 13, 2015	U-20 WNT vs Canada	1-0 W	Estadio Francisco Morazan; San Pedro Sula, Honduras		Sanchez
+December 13, 2015	WNT vs China	2-0 W	University of Phoenix Stadium; Glendale, Ariz.	19,066	Dunn, Press
+December 11, 2015	U-20 WNT vs Honduras	7-0 W	Estadio Francisco Morazan; San Pedro Sula, Honduras		Sanchez(2), Pugh(2), Scarpa, Canales, Velásquez(og)
+December 10, 2015	WNT vs Trinidad & Tobago	6-0 W	Alamodome; San Antonio, Texas	10,690	Lloyd, Morgan, Press (3), Horan
+December 9, 2015	U-20 WNT vs Haiti	6-0 W	Escuela Internacional Sampedran; San Pedro Sula, Honduras		De Melo, Pugh(2), Scarpa, Davidson, Stevens
+December 7, 2015	U-20 WNT vs Panama	6-1 W	Escuela Internacional Sampedran; San Pedro Sula, Honduras		Hedge, Pugh(2), Scarpa(3)
+December 6, 2015	U-17 MNT vs Brazil	0-3 L	Premier Sports Campus; Lakewood Ranch, Fla.		
+December 6, 2015	WNT vs Trinidad & Tobago	0-0 D	Aloha Stadium; Honolulu, Hawaii CANCELLED		--
+December 4, 2015	U-20 WNT vs Mexico	2-2 D	Olympic Stadium; San Pedro Sula, Honduras		Pugh, Fox
+December 4, 2015	U-17 MNT vs Netherlands	2-1 W	Premier Sports Campus; Lakewood Ranch, Fla.	1,500	Villegas, Sargent
+December 2, 2015	U-17 MNT vs England	2-3 L	Premier Sports Campus; Lakewood Ranch, Fla.		Goslin, Carleton
+November 17, 2015	MNT vs Trinidad & Tobago	0-0 D	Hasely Crawford Stadium; Port of Spain, Trinidad & Tobago	22,809	--
+November 15, 2015	U-23 MNT vs Brazil	1-5 L	Mangueirão Stadium; Belém, Brazil	6,130	Marlon (og)
+November 13, 2015	MNT vs St. Vincent & The Grenadines	6-1 W	Busch Stadium; St. Louis, Mo.	43,433	Wood, Johnson, Altidore(2), Cameron, Zardes
+November 11, 2015	U-23 MNT vs Brazil	1-2 L	Ilha do Retiro Stadium; Recife, Brazil	10,777	Kiesewetter
+October 25, 2015	U-18 MNT vs Canada	2-3 L	U.S. Soccer National Training Center; Carson, Calif.		Dorsey, Taitague
+October 25, 2015	WNT vs Brazil	3-1 W	Citrus Bowl; Orlando, Fla.	32,869	Morgan, Dunn, McCaffrey
+October 23, 2015	U-17 MNT vs Chile	1-4 L	Estadio Sausalito; Vina Del Mar, Chile		Vazquez
+October 23, 2015	U-18 MNT vs Canada	3-1 W	U.S. Soccer National Training Center; Carson, Calif.		Taitague, Perry(2)
+October 21, 2015	WNT vs Brazil	1-1 D	CenturyLink Field; Seattle, Wash.	23,693	Lloyd
+October 20, 2015	U-17 MNT vs Croatia	2-2 D	Estadio Sausalito; Vina Del Mar, Chile		C. Pulisic, Vazquez
+October 17, 2015	U-17 MNT vs Nigeria	0-2 L	Estadio Nacional Julio Martínez Prádanos; Santiago, Chile		--
+October 13, 2015	MNT vs Costa Rica	0-1 L	Red Bull Arena; Harrison, N.J.	9,214	--
+October 13, 2015	U-23 MNT vs Canada	2-0 W	Rio Tinto Stadium; Sandy, Utah	4,760	Pelosi, Kiesewetter
+October 12, 2015	U-20 MNT vs Mexico	3-3 D	Gazi-Stadion auf der Waldau; Stuttgart, Germany	800	Sabbi, Akale(2)
+October 10, 2015	MNT vs Mexico	2-3 L	Rose Bowl; Pasadena, Calif.	93,723 (so)	Cameron, Wood
+October 10, 2015	U-23 MNT vs Honduras	0-2 L	Rio Tinto Stadium; Sandy, Utah	2,633	--
+October 9, 2015	U-20 MNT vs Scotland	2-2 D	Stadion an der Kreuzeiche; Reutlingen, Germany	400	Sabbi, Akale
+October 6, 2015	U-23 MNT vs Panama	4-0 W	Dick's Sporting Goods Park; Commerce City, Colo.	3,313	Escobar(og), Kiesewetter, Morris, Gil
+October 6, 2015	U-20 MNT vs Germany	1-8 L	Gazi-Stadion auf der Waldau; Stuttgart, Germany	800	Williamson
+October 3, 2015	U-23 MNT vs Cuba	6-1 W	Sporting Park; Kansas City, Kan.	3,755	Carter-Vickers, Miazga, Kiesewetter(2), Hyndman, Hernandez
+October 1, 2015	U-23 MNT vs Canada	3-1 W	Sporting Park; Kansas City, Kan.	3,827	Morris(2), Gil
+September 30, 2015	U.S. Open Cup vs Sporting Kansas City	1-1 D SKC wins 7-6 on PKs	PPL Park; Chester, Pa.	14,463	PHI-Le Toux, SKC-Nemeth
+September 25, 2015	U-17 MNT vs Mexico	1-0 W	Mexico City, Mexico		Gallardo
+September 23, 2015	U-17 MNT vs Mexico	1-5 L	Mexico City, Mexico		Vazquez
+September 23, 2015	U-20 WNT vs Honduras	5-0 W	San Pedro Sula, Honduras		Canales, Redei, Stevens, Pinto, Harr
+September 20, 2015	WNT vs Haiti	8-0 W	Legion Field; Birmingham, Ala.	35,735	Lloyd(3), Johnston, Dunn, Rodriguez, Morgan, O'Reilly
+September 17, 2015	WNT vs Haiti	5-0 W	Ford Field; Detroit, Mich.	34,538	Lloyd(3), Press, Dunn
+September 8, 2015	MNT vs Brazil	1-4 L	Gillette Stadium; Foxborough, Mass.	29,308	D. Williams
+September 8, 2015	U-23 MNT vs Qatar	2-0 W	Gigg Lane; Bury, England		Joya, Ariyibi
+September 7, 2015	U-20 MNT vs Israel	2-0 W	Stadium FK Backa Topola; Backa Topola, Serbia	200	own goal, Saucedo
+September 4, 2015	MNT vs Peru	2-1 W	RFK Stadium; Washington, D.C.	28,896	Altidore(2)
+September 4, 2015	U-20 MNT vs France	1-6 L	Senta, Serbia	150	Sabbi
+September 4, 2015	U-17 MNT vs France	0-0 D	Limoges, France		--
+September 3, 2015	U-23 MNT vs England	0-1 L	Deepdale Stadium; Preston, England		--
+September 3, 2015	U-20 MNT vs Serbia	1-3 L	Subotica, Serbia	400	Scott
+September 2, 2015	U-17 MNT vs Australia	1-1 D	Limoges, France		Gallardo
+August 21, 2015	U-17 MNT vs Slovakia	1-1 D	Zivanice; Czech Republic		Trusty
+August 19, 2015	WNT vs Costa Rica	7-2 W	Finley Stadium; Chattanooga, Tenn.	20,535 (so)	Lloyd(2), O'Reilly(2), Wambach, Alvarado(own goal), Morgan
+August 19, 2015	U-17 MNT vs Slovenia	1-1 D	Svitavy; Czech Republic		Zendejas
+August 18, 2015	U-17 MNT vs Russia	2-4 L	Vysoke Myto; Czech Republic		Perez, Arellano
+August 16, 2015	WNT vs Costa Rica	8-0 W	Heinz Field; Pittsburgh, Pa.	44,028	O'Reilly(2), Press(3), Johnston, Klingenberg, Engen
+August 15, 2015	U-18 WNT vs Mexico	1-2 L	Centro de Alto Rendimiento; Mexico City, Mexico		Fox
+August 13, 2015	U-18 WNT vs Mexico	1-1 D	Centro de Alto Rendimiento; Mexico City, Mexico		Fox
+August 9, 2015	U-18 MNT vs Finland	2-1 W	Tingvalla; Karlstad, Sweden	250	Dorsey, Taitague
+August 7, 2015	U-18 MNT vs Sweden	1-2 L	Tingvalla; Karlstad, Sweden	500	Carleton
+August 5, 2015	U-18 MNT vs Iceland	0-2 L	Kolsvik; Sunne, Sweden	200	--
+August 4, 2015	U-18 MNT vs Faroe Islands	2-0 W	Strandvallen, Mallbacken; Sunne, Sweden	215	Jones, Taitague
+July 25, 2015	MNT vs Panama	1-1 D Panama wins 2-3 on PKs	PPL Park; Philadelphia, Pa.	12,598	Dempsey
+July 22, 2015	MNT vs Jamaica	1-2 L	Georgia Dome; Atlanta, Georgia	70,511	Bradley
+July 18, 2015	MNT vs Cuba	6-0 W	M&T Bank Stadium; Baltimore, Md.	37,994	Dempsey(3), Zardes, Johannsson, Gonzalez
+July 13, 2015	MNT vs Panama	1-1 D	Sporting Park; Kansas City, Kan.	18,467 (so)	Bradley
+July 13, 2015	U-18 MNT vs Czech Republic	1-1 D	Glenn “Mooch” Myernick Field, StubHub Center; Carson, Calif.		Elney
+July 11, 2015	U-18 MNT vs Uruguay	1-2 L	Glenn “Mooch” Myernick Field, StubHub Center; Carson, Calif.		Yueill
+July 10, 2015	MNT vs Haiti	1-0 W	Gillette Stadium; Foxborough, Mass.	46,720	Dempsey
+July 7, 2015	MNT vs Honduras	2-1 W	Toyota Stadium; Frisco, Texas	22,357 (so)	Dempsey(2)
+July 5, 2015	WNT vs Japan	5-2 W	BC Place; Vancouver, Canada	53,341	Lloyd (3), Holiday, Heath
+July 3, 2015	MNT vs Guatemala	4-0 W	Nissan Stadium; Nashville, Tenn.	44,835	Castrillo (og), Chandler, Dempsey (pk), Wondolowski
+June 30, 2015	WNT vs Germany	2-0 W	Olympic Stadium; Montreal, Canada	51,176	Lloyd, O'Hara
+June 26, 2015	WNT vs China PR	1-0 W	Landsdowne Stadium; Ottawa, Canada	24,141	Lloyd
+June 22, 2015	WNT vs Colombia	2-0 W	Commonwealth Stadium; Edmonton, Canada	19,412	Morgan, Lloyd
+June 16, 2015	WNT vs Nigeria	1-0 W	BC Place; Vancouver, Canada	52,193	Wambach
+June 14, 2015	U-20 MNT vs Serbia	0-0 D 5-6 L	North Harbour Stadium; Auckland, New Zealand	10,826	--
+June 12, 2015	WNT vs Sweden	0-0 D	Winnipeg Stadium; Winnipeg, Canada	32,716	--
+June 12, 2015	U-15 BNT vs Paraguay	1-3 L	Buenos Aires, Argentina		Acosta
+June 10, 2015	MNT vs Germany	2-1 W	RheinEnergieSTADION; Cologne, Germany	40,348	Diskerud, Wood
+June 10, 2015	U-20 MNT vs Colombia	1-0 W	Wellington Regional Stadium; Wellington, New Zealand	6,062	Rubin
+June 10, 2015	U-15 BNT vs Argentina	1-2 L	Buenos Aires, Argentina		Licor
+June 8, 2015	WNT vs Australia	3-1 W	Winnipeg Stadium; Winnipeg, Canada	31,148	Rapinoe(2), Press
+June 8, 2015	U-15 BNT vs Uruguay	0-1 L	Buenos Aires, Argentina		--
+June 7, 2015	U-23 MNT vs England	2-1 W	Stade Mayol; Toulon, France	910	Hernandez, Joya
+June 6, 2015	U-20 WNT vs Brazil	2-1 W	Glenn “Mooch” Myernick Field – Field #1; Carson, Calif.	250	Racioppi, Pugh
+June 5, 2015	MNT vs Netherlands	4-3 W	Amsterdam Arena; Amsterdam, Netherlands	46,000	Zardes, Brooks, Williams, Wood
+June 5, 2015	U-20 MNT vs Ukraine	0-3 L	North Harbor Stadium; Auckland, New Zealand	7,694	--
+June 4, 2015	U-20 WNT vs Mexico	1-0 W	Glenn “Mooch” Myernick Field – Field #1; Carson, Calif.	400	Pugh
+June 2, 2015	U-20 WNT vs Japan	0-3 L	Glenn “Mooch” Myernick Field – Field #1; Carson, Calif.	300	--
+June 2, 2015	U-23 MNT vs Qatar	1-0 W	Stade de Lattre-de-Tassigny; Aubagne, France	680	Green
+June 2, 2015	U-20 MNT vs New Zealand	4-0 W	North Harbor Stadium; Auckland, New Zealand	15,678	Jamieson, Hyndman, Arriola, Rubin
+May 31, 2015	U-23 MNT vs Costa Rica	1-2 L	Stade Louis Hon; Saint-Raphaël, France	550	Alashe
+May 31, 2015	U-23 WNT vs England	2-1 W	Sarpsborg, Norway		Lavelle, T. Smith
+May 30, 2015	WNT vs Korea Republic	0-0 D	Red Bull Arena; Harrison, N.J.	26,467 (so)	--
+May 30, 2015	U-20 MNT vs Myanmar	2-1 W	Northland Events Center; Whangarei, New Zealand	5,816	Tall, Hyndman
+May 29, 2015	U-23 MNT vs Netherlands	3-1 W	Stade Perruc; Hyères, France	550	Kiesewetter, Hernandez, Packwood
+May 29, 2015	U-23 WNT vs Norway	2-2 D	Sarpsborg, Norway		Ubogagu(2)
+May 27, 2015	U-23 MNT vs France	1-3 L	Stade Léo Lagrange; Toulon, France	812	Morris
+May 27, 2015	U-23 WNT vs Sweden	2-1 W	Fredrikstad, Norway		Mills, Roccaro
+May 19, 2015	U-20 MNT vs Australia	2-1 W	Central Coast Stadium; Gosford, Australia	600	Soñora, Tall
+May 17, 2015	WNT vs Mexico	5-1 W	StubHub Center; Carson, Calif.	27,000 (so)	Leroux(2), Chalupny, Wambach(2)
+May 10, 2015	WNT vs Ireland	3-0 W	Avaya Stadium; San Jose, Calif.	18,000 (so)	Wambach(2), Johnston
+May 1, 2015	U-15 BNT vs Austria	3-2 W	Vipolze, Slovenia		Carleton(2), Weah
+April 30, 2015	U-18 MNT vs Bosnia-Herzegovina	1-0 W	Stadion Bare; Medugorje, Bosnia-Herzegovina		Akale
+April 29, 2015	U-15 BNT vs Italy	0-0 D 5-4	Vipolze, Slovenia	450	Carleton, Acosta, Villegas, Durkin, Weah
+April 28, 2015	U-18 MNT vs Bosnia-Herzegovina	1-3 L	Medugorje, Bosnia-Herzegovina		Akale
+April 27, 2015	U-15 BNT vs Slovenia	2-3 L	Vipolze, Slovenia	100	Goslin, Acosta
+April 26, 2015	U-15 BNT vs Croatia	6-2 W	Vipolze, Slovenia	65	Akinola(4), Carleton(2)
+April 25, 2015	U-20 MNT vs Croatia	1-0 W	Red Bull Salzburg Academy; Salzburg, Austria		Gall
+April 25, 2015	U-15 BNT vs Costa Rica	4-1 W	Vipolze, Slovenia	55	Carleton(2), del Rosario(2)
+April 22, 2015	U-23 MNT vs Mexico	3-0 W	StubHub Center; Carson, California	3,782	M. Rodriguez, Dean, Morris
+April 21, 2015	U-20 MNT vs Qatar	2-2 D	Red Bull Salzburg Academy; Salzburg, Austria		Moreno, Donovan
+April 15, 2015	MNT vs Mexico Presented by AT&T	2-0 W	Alamodome; San Antonio, Texas	64,369 (so)	Morris, Agudelo
+April 4, 2015	WNT vs New Zealand	4-0 W	Busch Stadium; St. Louis, Mo.	35,817	Klingenberg, Chalupny, Johnston, Brian
+March 31, 2015	U-23 MNT vs Denmark	0-1 L	Lyngby Stadion; Copenhagen, Denmark	1,322	--
+March 31, 2015	MNT vs Switzerland	1-1 D	Stadion Letzigrund; Zurich, Switzerland	16,100	Shea
+March 29, 2015	U-20 MNT vs England	1-2 L	Home Park; Plymouth, England	11,406	Tall
+March 27, 2015	U-23 MNT vs Bosnia and Herzegovina	5-2 W	Stadion Tusanj; Tuzla Bosnia & Herzegovina	800	Morris, M. Rodriguez, Joya, A. Hernandez, Alashe
+March 25, 2015	MNT vs Denmark	2-3 L	NRGi Park; Aarhus, Denmark	10,505	Altidore, Johannsson
+March 15, 2015	U-17 MNT vs Jamaica	0-0 D USA wins 5-4 on PKs	Estadio Francisco Morazán; San Pedro Sula, Honduras		PKs: Gallardo, Barbir, Zendejas, Nelson, Velela
+March 15, 2015	U-16 BNT vs Netherlands	1-3 L	Rotterdam, Netherlands	250	Goslin
+March 13, 2015	U-16 BNT vs Czech Republic	1-2 L	Rotterdam, Netherlands	130	Taitague
+March 11, 2015	U-17 MNT vs Jamaica	0-1 L	Estadio Francisco Morazán; San Pedro Sula, Honduras	1,288	--
+March 11, 2015	WNT vs France	2-0 W	Algarve Stadium	1,500	Johnston, Press
+March 11, 2015	U-16 BNT vs Republic of Ireland	0-1 L	Rotterdam, Netherlands	65	--
+March 9, 2015	WNT vs Iceland	0-0 D	Municipal Stadium Lagos; Lagos, Portugal	500	--
+March 9, 2015	U-20 WNT vs Sweden	2-0 W	La Manga, Spain		Watt(2)
+March 8, 2015	U-17 MNT vs Honduras	2-2 D	Estadio Francisco Morazán; San Pedro Sula, Honduras		de la Torre, Perez
+March 7, 2015	U-20 WNT vs Netherlands	2-0 W	La Manga, Spain		Harvey, Harr
+March 6, 2015	WNT vs Switzerland	3-0 W	Municipal Stadium; Vila Real de Santo António, Portugal	500	Morgan, Rodriguez, Wambach
+March 5, 2015	U-17 MNT vs Guatemala	4-1 W	Estadio Francisco Morazán; San Pedro Sula, Honduras	865	Perez (3), Da Silva
+March 5, 2015	U-20 WNT vs Norway	2-0 W	La Manga, Spain		Pugh (2)
+March 4, 2015	WNT vs Norway	2-1 W	Municipal Stadium; Vila Real de Santo António, Portugal	500	Lloyd (2)
+March 2, 2015	U-17 MNT vs Trinidad & Tobago	2-0 W	Estadio Francisco Morazán; San Pedro Sula, Honduras	1,650	Gallardo, Wright
+March 2, 2015	U-23 WNT vs England	2-1 W	La Manga, Spain		Killion, L. Williams
+February 28, 2015	U-23 WNT vs Norway	2-0 W	La Manga, Spain		Groom, Colaprico
+February 27, 2015	U-17 MNT vs Cuba	5-0 W	Estadio Francisco Morazán; San Pedro Sula, Honduras	720	Arellano, Gallardo (3), Zendejas
+February 26, 2015	U-23 WNT vs Japan	1-0 W	La Manga, Spain		L. Williams
+February 15, 2015	U-17 WNT vs Japan	3-1 W	Glenn “Mooch” Myernick Field; Carson, Calif.	500	Sanchez, Ekic, Pinto
+February 13, 2015	U-17 WNT vs Canada	2-0 W	Glenn “Mooch” Myernick Field; Carson, Calif.	200	Ekic, Sanchez
+February 13, 2015	WNT vs England	1-0 W	stadiummk; Milton Keynes, England	14,369	Morgan
+February 11, 2015	U-17 WNT vs Mexico	3-1 W	Glenn “Mooch” Myernick Field; Carson, Calif.	100	Sanchez (3)
+February 8, 2015	MNT vs Panama	2-0 W	StubHub Center; Carson, Calif.	20,271	Bradley, Dempsey
+February 8, 2015	WNT vs France	0-2 L	Stade du Moustoir; Lorient, France	15,663	-
+February 3, 2015	U-18 MNT vs Universidad Católica de Chile	0-1 L	Chivas Verde Valle: Guadalajara, Mexico	70	-
+February 2, 2015	U-18 MNT vs Club Tijuana	1-1 D	Chivas Verde Valle: Guadalajara, Mexico	100	Williamson
+January 31, 2015	U-18 MNT vs Cruzeiro	0-1 L	Chivas Verde Valle: Guadalajara, Mexico	70	-
+January 30, 2015	U-18 MNT vs Monarcas Morelia	1-0 W	Chivas Verde Valle; Guadalajara, Mexico	100	M. Pineda
+January 28, 2015	MNT vs Chile	2-3 L	Estadio El Teniente; Rancagua, Chile	12,420	Shea, Altidore
+January 24, 2015	U-20 MNT vs El Salvador	2-0 W	Montego Bay Sports Complex; Montego Bay, Jamaica	1,000	Spencer, Arriola
+January 22, 2015	U-16 BNT vs Turkey	0-1 L	Turgutlu 7 Eylül		-
+January 21, 2015	U-20 MNT vs Trinidad & Tobago	1-0 W	Montego Bay Sports Complex; Montego Bay, Jamaica	750	Jamieson
+January 20, 2015	U-16 BNT vs Norway	0-2 L	Turgutlu 7 Eylül		-
+January 19, 2015	U-16 BNT vs Romania	2-0 W	Kırkağaç İlçe		Rennicks, Villegas
+January 18, 2015	U-20 MNT vs Jamaica	2-0 W	Montego Bay Sports Complex; Montego Bay, Jamaica	3,500	Gall (2)
+January 14, 2015	U-20 MNT vs Aruba	8-0 W	Independence Park; Kingston, Jamaica	2,000	Gall (3), Spencer, Thompson, Hyndman, Jamieson IV, Moreno
+January 11, 2015	U-20 MNT vs Panama	0-1 L	Independence Park; Kingston, Jamaica	3,320	-
+January 9, 2015	U-20 MNT vs Guatemala	1-1 D	Independence Park; Kingston, Jamaica	2,500	Carter-Vickers
+December 21, 2014	WNT vs Brazil	0-0 D	National Stadium Mane Garrincha; Brasilia, Brazil	11,000	-
+December 18, 2014	WNT vs Argentina	7-0 W	National Stadium Mane Garrincha	750	Press-4, Lloyd-3
+December 14, 2014	WNT vs Brazil	2-3 L	National Stadium Mane Garrincha, Brasilia, Brazil	5,421	Lloyd, Rapinoe
+December 10, 2014	WNT vs China PR	1-1 D	National Stadium Mane Garrincha; Brasilia, Brazil	300	Lloyd
+November 18, 2014	MNT vs Ireland	1-4 L	Aviva Stadium; Dublin, Ireland	33,332	Diskerud
+November 14, 2014	MNT vs Colombia	1-2 L	Craven Cottage; London, England	24,235	Altidore (PK)
+October 26, 2014	WNT vs Costa Rica	6-0 W	PPL Park; Chester, Pa.	11,625	Wambach (4), Lloyd, Leroux
+October 24, 2014	WNT vs Mexico	3-0 W	PPL Park; Chester, Pa.	8,773	Lloyd (2), Press
+October 20, 2014	WNT vs Haiti	6-0 W	RFK Stadium; Washington, D.C.	6,421	Lloyd, Wambach (2), Klingenberg, Press, Brian
+October 17, 2014	WNT vs Guatemala	5-0 W	Toyota Park; Bridgeview, Ill.	6,796	Heath (2), Lloyd, Engen, Rapinoe
+October 15, 2014	WNT vs Trinidad & Tobago	1-0 W	Sporting Park; Kansas City, Kan.	3,621	Wambach
+October 14, 2014	MNT vs Honduras	1-1 D	FAU Stadium; Boca Raton, Fla.	14,805	Altidore
+October 10, 2014	MNT vs Ecuador	1-1 D	East Hartford, Conn.	36,265	Diskerud
+September 18, 2014	WNT vs Mexico	4-0 W	Sahlen's Stadium; Rochester, N.Y.	5,680	Rodriguez, Rapinoe, Heath, Morgan
+September 13, 2014	WNT vs Mexico	8-0 W	Rio Tinto Stadium; Sandy, Utah	8,849	Own Goal, Wambach (2), Morgan (2), Engen, Leroux, O'Reilly
+September 3, 2014	MNT vs Czech Republic	1-0 W	Prague, Czech Republic	12,642	Bedoya
+August 20, 2014	WNT vs Switzerland	4-1 W	WakeMed Soccer Park; Cary, N.C.	9,992 (so)	Rapinoe, Lloyd, Press, Wambach
+July 1, 2014	MNT vs Belgium	1-2 L a.e.t.	Fonte Nova; Salvador, Brazil	51,227	Green
+June 26, 2014	MNT vs Germany	0-1 L	Arena Pernambuco; Recife, Brazil	41,876	--
+June 22, 2014	MNT vs Portugal	2-2 D	Arena Amazona; Manaus, Brazil	40,123	Dempsey, Jones
+June 19, 2014	WNT vs France	2-2 D	Rentschler Field; East Hartford, Conn.	14,695	Morgan (2)
+June 16, 2014	MNT vs Ghana	2-1 W	Estadio das Dunas; Natal, Brazil	39,760	Dempsey, Brooks
+June 14, 2014	WNT vs France	1-0 W	Raymond James Stadium; Tampa, Fla.	9,799	Leroux
+June 7, 2014	MNT vs Nigeria	2-1 W	EverBank Field; Jacksonville, Fla.	52,033	Altidore (2)
+June 1, 2014	MNT vs Turkey	2-1 W	Red Bull Arena; Harrison, N.J.	26,762	F. Johnson, Dempsey
+May 27, 2014	MNT vs Azerbaijan, powered by Yingli Solar	2-0 W	Candlestick Park; San Francisco, Calif.	24,688	Diskerud, Johannsson
+May 8, 2014	WNT vs Canada	1-1 D	Investors Group Field; Winnipeg, Canada	28,255	Leroux
+April 10, 2014	WNT vs China PR	3-0 W	Qualcomm Stadium; San Diego, Calif.	12,857	Lloyd (2), Leroux
+April 6, 2014	WNT vs China PR	2-0 W	Dick's Sporting Goods Park; Commerce City, Colo.	14,903	Holiday, Rapinoe
+April 2, 2014	MNT vs Mexico	2-2 D	University of Phoenix Stadium; Glendale, Ariz.	59,066	Bradley, Wondolowski
+March 12, 2014	WNT vs Korea DPR	3-0 W	Estadio Bela Vista Parchal; Portugal	250	Wambach(2), O'Reilly
+March 10, 2014	WNT vs Denmark	3-5 L	Estadio Municipal Albufeira; Albufeira, Portal	750	Press, Leroux, Rapinoe
+March 7, 2014	WNT vs Sweden	0-1 L	Estadio Municipal Albufeira; Albufeira, Portugal	2,000	--
+March 5, 2014	WNT vs Japan	1-1 D	Estadio Bela Vista; Portugal	500	Leroux
+March 5, 2014	MNT vs Ukraine	0-2 L	Antonis Papadopoulos Stadium; Larnaca, Cyprus	1,573	--
+February 13, 2014	WNT vs Russia	8-0 W	Georgia Dome; Atlanta, Ga.	16,133	Own Goal (2), Rodriguez, Wambach, Rapinoe, Holiday, O’Reilly, Press
+February 8, 2014	WNT vs Russia	7-0 W	FAU Stadium; Boca Raton, Fla.	8,857	Lloyd (2), O'Reilly, Press (2), Leroux, Wambach
+February 1, 2014	MNT vs Korea Republic	2-0 W	StubHub Center; Carson, Calif.	27,000 (so)	Wondolowski (2)
+January 31, 2014	WNT vs Canada	1-0 W	Toyota Stadium; Frisco, Texas	20,862	Leroux
